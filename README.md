@@ -1,36 +1,33 @@
-# Teorema-de-Tales-Basico
-### [NÃO ACEITA EXPRESSÕES COMO COMPRIMENTOS DE RETA] - Solucionador do Teorema de Tales
+ Teorema-de-Tales-Basico
+### [DOES NOT ACCEPT EXPRESSIONS AS SEGMENT LENGTHS] - Tales Theorem Solver
 
-### ⚠️ AVISOS
-☑️ Esse é um programa básico feito em Python que busca resolver o Teorema de Tales em suas situações básicas, que são:  
+### ⚠️ WARNINGS
+☑️ This is a basic Python program designed to solve the Tales Theorem in its basic cases, which are:  
 
-• Apenas um valor "x";  
+• Only one "x" value;  
 
-• Apenas um segmento de reta sem valor (Nesse caso pergunta ao usuário o comprimento da reta paralela completa );  
+• Only one segment without a value (In this case, the program asks the user for the total length of the parallel segment);  
 
-• Não aceita expressões como valores de segmentos de reta (Exemplo: x + 2, ou 10 + 5), apenas números inteiros e decimais;  
+• Does not accept expressions as segment values (Example: x + 2 or 10 + 5), only integers and decimal numbers;  
 
+### 👨‍💻 STRUCTURE
+• The program is divided into 3 main files:  
 
-### 👨‍💻  ESTRUTURA
-• O programa é divido em 3 arquivos principais:  
+• 2 modules named **"analises"** and **"estrutura"** <- These are imported into the file called **"programa_principal.py"**;  
 
-• 2 módulos denominados **"analises"** e **"estrutura"** <- São importados para o arquivo chamado "programa_principal.py";  
-
-  ➥ **analises:** responsavél por categorizar os tipos de dados que o usuário digita, para adequa-los a resolução do teorema.  
+  ➥ **analises:** Responsible for categorizing the types of data entered by the user to adapt them for solving the theorem.  
   
-  ➥ **estrutura:** responsavél pela visualização do problema e resolução ao usuário *[VISUALIZAÇÃO FEITA ATRAVÉS DO TERMINAL]*  
-  
-• 1 arquivo chamado programa_principal que **é o local onde o programa deve ser executado**, pois usa os 2 módulos citados acima para realizar o programa.  
+  ➥ **estrutura:** Responsible for displaying the problem and its solution to the user *[DISPLAY MADE THROUGH THE TERMINAL]*  
 
+• 1 file called **"programa_principal.py"** which **is where the program should be executed**, as it uses the 2 modules mentioned above to run the program.  
 
-### ➕ INFORMAÇÕES ADICIONAIS
-• Todas as funções dos módulos apresentam *docstrings*;  
+### ➕ ADDITIONAL INFORMATION
+• All module functions include *docstrings*;  
 
-• Também é possível notar **anotações** dentro do código, que visam o melhor entendimento à pessoa que for ler o programa.
+• You can also find **annotations** within the code to help anyone reading the program understand it better.  
 
-### 🚨 OBSERVAÇÕES
-• Este é meu **primeiro projeto** envolvendo programação.  
+### 🚨 NOTES
+• This is my **first project** involving programming.  
 
-  ➥ Por isso, é provavél que hajam erros ou "más praticas" dentro do programa, por isso, **sinta-se livre para me dar conselhos**!  
-  
-• Esse é um projeto que utiliza fundamentos básicos da linguagem Python, visto que meus conhecimentos ainda não são avançados.
+  ➥ Therefore, it is likely that there are errors or "bad practices" within the program, so **feel free to give me advice**!  
+
