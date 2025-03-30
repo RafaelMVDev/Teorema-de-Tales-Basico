@@ -1,4 +1,4 @@
- Teorema-de-Tales-Basico
+# Teorema-de-Tales-Basico
 ### [DOES NOT ACCEPT EXPRESSIONS AS SEGMENT LENGTHS] - Tales Theorem Solver
 
 ### ⚠️ WARNINGS
