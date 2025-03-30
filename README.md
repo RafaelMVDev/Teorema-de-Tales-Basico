@@ -1,5 +1,5 @@
 # Simple Solver for Intercept Theorem
-### [DOES NOT ACCEPT EXPRESSIONS AS SEGMENT LENGTHS] - Tales Theorem Solver
+### [DOES NOT ACCEPT EXPRESSIONS AS SEGMENT LENGTHS] - Intercept Theorem Solver
 
 ### ⚠️ WARNINGS
 ☑️ This is a basic Python program designed to solve the Tales Theorem in its basic cases, which are:  
