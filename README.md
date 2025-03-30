@@ -1,4 +1,4 @@
-# Teorema-de-Tales-Basico
+# Simple Solver for Intercept Theorem
 ### [DOES NOT ACCEPT EXPRESSIONS AS SEGMENT LENGTHS] - Tales Theorem Solver
 
 ### ⚠️ WARNINGS
